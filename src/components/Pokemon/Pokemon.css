@@ -1,0 +1,11 @@
+.pokemon {
+    margin: 15px 0;
+}
+
+.pokemon h2 {
+    letter-spacing: 0.5rem
+}
+
+.pokemon:hover {
+    background-color: blanchedalmond;
+}

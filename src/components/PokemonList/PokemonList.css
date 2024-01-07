@@ -1,0 +1,15 @@
+.pokemon-wrapper {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.controls button {
+    margin: 4px;
+    padding: 4px 10px;
+}
+
+button:hover {
+    cursor: pointer;
+}

@@ -1,0 +1,6 @@
+.poke-wrapper {
+    display: flex; /* Creates a flex container */
+    flex-direction: column;
+    align-items: center; /* Vertically centers the elements */
+    text-align: center; /* Horizontally centers the text content */
+}
